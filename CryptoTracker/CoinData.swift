@@ -16,5 +16,4 @@ class Coin {
     var ammount = 0.0
     var historicalData = [Double]()
     
-    
 }
